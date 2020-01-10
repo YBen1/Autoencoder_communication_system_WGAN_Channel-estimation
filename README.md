@@ -1,5 +1,5 @@
 # Comparison_MI_GAN
-Master Thesis compairing Communicationsystems Baised on GAN, Wasserstein GAN and on Mutual Information
+Master Thesis compairing 2Communicationsystems Baised on GAN, Wasserstein GAN and on Mutual Information
 
 Baised on:
 "Deep Learning for Channel Coding via Neural Mutual Information Estimation" by Rick Fritschek, Rafael F. Schaefer and Gerhard Wunder 
